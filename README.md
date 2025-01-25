@@ -10,5 +10,5 @@ Python starter project
 
 ## Note
 
-See other tasks in poetry config (TOML) file
+Uses "uv" & "ruff"
 
